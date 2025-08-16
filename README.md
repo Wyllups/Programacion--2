@@ -1,4 +1,4 @@
-# Programación en Python – Nivel 2
+# Curso de Programación en Python nivel Intermedio
 
 **Nombre del Estudiante:** Wilfredo Calderón Pérez  
 **Curso:** Programación 2  
@@ -8,59 +8,57 @@
 
 ## 🎯 Objetivo Principal
 
-Fortalecer y ampliar los conocimientos adquiridos en Programación 1 mediante la aplicación de conceptos más avanzados del lenguaje Python, incluyendo el uso de librerías especializadas como NumPy, la Programación Orientada a Objetos (POO) y el desarrollo de proyectos funcionales que integren lógica, estructuras de datos y modularidad.
+Desarrollar soluciones computacionales eficientes a problemas matemáticos complejos. A través de la práctica intensiva en lenguajes de programación y el uso de herramientas computacionales, los estudiantes serán capaces de modelar sistemas matemáticos, analizar datos, implementar algoritmos y visualizar resultados, contribuyendo así a su formación como matemáticos aplicados capaces de resolver problemas del mundo real.
 
 ---
 
 ## 📚 Resumen del Curso
 
-En este segundo curso de programación, se profundizó en las capacidades de Python para desarrollar programas más estructurados, reutilizables y eficientes. A través de ejercicios prácticos y proyectos, se aplicaron técnicas de diseño de clases, encapsulación de datos, manejo de matrices y automatización de procesos con librerías.
+Este segundo curso de programación se enfocó en aprender sobre bibliotecas, en especial numpy para crear y manipular matrices; Clases, programación orientada a Objetos, Bases de datos (Mysql - sqlite), desarrollo aplicaciones de escritorio y web.
+
+
 
 ### 🧠 Temas abordados:
 
-- **Repaso y Mejora de Conceptos Fundamentales**
-  - Funciones con parámetros y valores de retorno
-  - Importación y reutilización de módulos propios
-  - Interacción con el usuario mediante entrada y salida de datos
+- **Bibliotecas**
+  - Que es una biblioteca
+  - Métodos de bibliotecas
+  - Numpy
+  - Time
+  - Random
 
-- **Programación Orientada a Objetos (POO)**
-  - Definición de clases y atributos
-  - Métodos públicos y privados
-  - Encapsulación y control de acceso
-  - Instanciación y manipulación de objetos
-  - Ejemplos con clases como `Animal`, `Automovil` y `Estudiante`
+- **Programación Orientada a Objetos - OOP**
+  - Clases
+  - Instancias - Objetos
+  - Encapsulación
+  - Herencia
+  - Herencia Multiple
+  - Polimorfismo
 
-- **Trabajo con la librería NumPy**
-  - Creación y manipulación de arrays y matrices
-  - Métodos y propiedades (`ndim`, `shape`, `zeros`, `ones`, `eye`, `full`, `arange`, `linspace`, `random`)
-  - Iteración sobre matrices con bucles anidados
-  - Creación y manipulación de tablas con NumPy
+- **Bases de Datos**
+  - Mysql 
+  - Sqlite
+    - Crear bases de datos
+    - Modificar DB
+    - Actualizar DB
+    - Eliminar BD
+    - CRUD
 
-- **Modularidad y Organización del Código**
-  - Uso de funciones separadas para crear, llenar y mostrar datos
-  - Ordenamiento de datos con criterios personalizados
-  - Reutilización de código en diferentes scripts
+- **Desarrollo a aplicaciones GUI - WEB**
+  - 
 
-- **Proyecto Aplicado – Tabla de Posiciones**
-  - Implementación de un sistema que permite ingresar resultados de equipos
-  - Cálculo automático de partidos jugados, diferencia de goles y puntos
-  - Ordenamiento automático de la tabla por puntos y diferencia de goles
-  - Presentación de datos formateados en consola
+- **🧑‍💻 Proyecto Final**
+  - Desarrollo de una aplicación funcional que integra los conocimientos adquiridos a lo largo del curso - conjuntamente con la asignatura de Algebra Lineal
 
 ---
 
 ## ✅ Resultados Esperados
 
-Al finalizar este curso, estoy en capacidad de:
+Al finalizar este curso, estoy en la capacidad para:
 
-- Implementar programas en Python usando **Programación Orientada a Objetos**.
-- Diseñar y manipular **clases y objetos** aplicando encapsulación y métodos privados.
-- Utilizar **NumPy** para manejar arreglos y matrices de manera eficiente.
-- Modularizar programas para mejorar su mantenimiento y legibilidad.
-- Ordenar y presentar datos en tablas estructuradas.
-- Desarrollar aplicaciones más complejas que integren lógica, POO y librerías externas.
-- Aplicar buenas prácticas de programación y estructura del código.
 
 ---
+
+> _"Programar no solo es escribir líneas de código, sino resolver problemas de forma creativa."_  
 
 > _"El verdadero poder de un lenguaje de programación se descubre cuando aprendemos a estructurar y reutilizar el código."_  
